@@ -1,5 +1,9 @@
 ## 💡 Preview
-![hemisphere](./images/hemisphere.png)
+![hemisphere](./images/hemisphere1.png)
+surface version.
+
+![hemisphere](./images/hemisphere2.png)
+wireframe version.
 
 ## 📍 Introduction
 ### Examples
@@ -35,7 +39,7 @@ VTK supports the following operating systems:
 3. Linux (ex: Ubuntu 12.04 or newer, Debian 4 or newer)
 
 ## 📝 License
-VTK is distributed under the OSI-approved BSD 3-clause License. See [LICENSE.txt]() for details.
+VTK is distributed under the OSI-approved BSD 3-clause License. See [LICENSE.txt](https://github.com/solheeing/makeHemisphere/blob/main/License.txt) for details.
 
 ## 👩🏻‍💻 Author
 Eunsori Cho, [@solheeing](https://github.com/solheeing)
