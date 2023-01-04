@@ -1,11 +1,10 @@
 ## 💡 Preview
-![hemisphere](./images/hemisphere.jpg)
+![hemisphere](./images/hemisphere.png)
 
 ## 📍 Introduction
-![vtk image](./images/vtk.jpg)
-
-![examples](./images/ex1.jpg)
-![examples](./images/ex2.jpg)
+### Examples
+![examples](./images/ex1.png)
+![examples](./images/ex2.png)
 
 The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, modeling, image processing, volume rendering, scientific visualization, and 2D plotting. It supports a wide variety of visualization algorithms and advanced modeling techniques, and it takes advantage of both threaded and distributed memory parallel processing for speed and scalability, respectively.
 
