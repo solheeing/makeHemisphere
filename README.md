@@ -23,11 +23,11 @@ Complete the hemisphere by stacking the triangles in the same way as in this pic
 ## 💡 Preview
 ![hemisphere](./images/hemisphere1.png)
 
-type : surface
+- type : surface
 
 ![hemisphere](./images/hemisphere2.png)
 
-type : wireframe
+- type : wireframe
 
 ## 🎯 Getting Started
 ### Requirements
