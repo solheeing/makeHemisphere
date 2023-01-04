@@ -8,7 +8,6 @@ As open source software, VTK is free to use for any purpose. Technically, VTK ha
 ParaView is an open-source, multi-platform data analysis and visualization application. ParaView is known and used in many different communities to analyze and visualize scientific data sets. It can be used to build visualizations to analyze data using qualitative and quantitative techniques. The data exploration can be done interactively in 3D or programmatically using ParaView's batch processing capabilities.
 
 # 🎯 Getting Started
-Make hemisphere with python(VTK) so you can view them with Paraview.
 ### Requirements
 - Python 3.x
 
